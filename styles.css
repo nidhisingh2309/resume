@@ -1,0 +1,161 @@
+.chat{
+    font-size: 32px;
+        font-weight: 400%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-bottom: 20px;
+}
+
+.about-content{
+    color: #36454F;
+    font-size: 24px;
+    font-weight: 300%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bout{
+    font-size: 42px;
+        font-weight: 400%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-bottom: 20px;
+}
+.project-content{
+    color: #36454F;
+    font-size: 20px;
+        font-weight: 400%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.interest-content{
+    
+    max-width: 1000px;
+    color: #36454F;
+        margin: 0 auto;
+        padding: 20px;
+    font-size: 22px;
+    font-weight: 500%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+img {
+    position: relative;
+    margin-top: 80px;
+    width: 180px;
+    /* Adjust the width as needed */
+    height: 200px;
+    /* Adjust the height as needed */
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.centered-image {
+    
+   
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.aboutsty{
+
+    overflow: hidden;
+}
+
+
+
+.education {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.education h2 {
+   font-size: 32px;
+   font-weight: 400%;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.education-item h3 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.education-item p {
+    margin: 5px 0;
+}
+
+
+.year{
+    float: right;
+}
+.year1{
+    font-size: 20px;
+    
+    float: right;
+}
+
+.subf{
+    margin-left: 20px;
+}
+
+.subed{
+    color: #36454F;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#education{
+    background-color: azure;
+}
+
+
+#projects{
+    background-color:#F4F0F0;
+}
+
+#skills{
+    padding-bottom: 60px;
+}
+
+
+#interests{
+    background-color: azure;
+}
+
+#contact{
+    background-color: #FFF5EE;
+    padding-bottom: 60px;
+}
+
+
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+#about{
+background-color: #FFF5EE;
+}
+
+
+a:link {
+    color: cornflowerblue;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+}
+ 
